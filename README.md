@@ -11,6 +11,7 @@ This repository serves as a good base for **Data Analysis** learning, including,
 
 Step-by-step of the analysis:   
 -   [Exploring: Users](jupyter/users.ipynb)
+-   [Exploring: Flights](jupyter/flights.ipynb)
 
 ---
 ## Also look ~
